@@ -15,7 +15,7 @@ namespace Tp1_Palmeyro_Leandro
         private Numero numero1;
         private Numero numero2;
         private string operador;
-        private Calculadora calculadora = new Calculadora();
+        
 
         public Form1()
         {
@@ -28,7 +28,7 @@ namespace Tp1_Palmeyro_Leandro
             this.numero2 = new Numero(txtNumero2.Text);
             this.operador = cmbOperacion.Text;
 
-            this.lblResultado.Text = calculadora.operar(numero1, numero2, operador).ToString();
+            this.lblResultado.Text = Calculadora.operar(numero1, numero2, operador).ToString();
         }
 
         private void btnLimpiar_Click(object sender, EventArgs e)

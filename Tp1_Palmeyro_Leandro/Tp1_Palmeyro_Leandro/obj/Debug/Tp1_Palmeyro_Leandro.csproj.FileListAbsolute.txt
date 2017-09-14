@@ -7,3 +7,12 @@ C:\Users\LalooRnR\Desktop\Tp1_Palmeyro_Leandro\Tp1_Palmeyro_Leandro\obj\Debug\Tp
 C:\Users\LalooRnR\Desktop\Tp1_Palmeyro_Leandro\Tp1_Palmeyro_Leandro\obj\Debug\Tp1_Palmeyro_Leandro.csproj.GenerateResource.Cache
 C:\Users\LalooRnR\Desktop\Tp1_Palmeyro_Leandro\Tp1_Palmeyro_Leandro\obj\Debug\Tp1_Palmeyro_Leandro.exe
 C:\Users\LalooRnR\Desktop\Tp1_Palmeyro_Leandro\Tp1_Palmeyro_Leandro\obj\Debug\Tp1_Palmeyro_Leandro.pdb
+C:\Users\LalooRnR\Documents\GitHub\PalmeyroLeandro\Tp1_Palmeyro_Leandro\Tp1_Palmeyro_Leandro\bin\Debug\Tp1_Palmeyro_Leandro.exe.config
+C:\Users\LalooRnR\Documents\GitHub\PalmeyroLeandro\Tp1_Palmeyro_Leandro\Tp1_Palmeyro_Leandro\bin\Debug\Tp1_Palmeyro_Leandro.exe
+C:\Users\LalooRnR\Documents\GitHub\PalmeyroLeandro\Tp1_Palmeyro_Leandro\Tp1_Palmeyro_Leandro\bin\Debug\Tp1_Palmeyro_Leandro.pdb
+C:\Users\LalooRnR\Documents\GitHub\PalmeyroLeandro\Tp1_Palmeyro_Leandro\Tp1_Palmeyro_Leandro\obj\Debug\Tp1_Palmeyro_Leandro.csprojResolveAssemblyReference.cache
+C:\Users\LalooRnR\Documents\GitHub\PalmeyroLeandro\Tp1_Palmeyro_Leandro\Tp1_Palmeyro_Leandro\obj\Debug\Tp1_Palmeyro_Leandro.Form1.resources
+C:\Users\LalooRnR\Documents\GitHub\PalmeyroLeandro\Tp1_Palmeyro_Leandro\Tp1_Palmeyro_Leandro\obj\Debug\Tp1_Palmeyro_Leandro.Properties.Resources.resources
+C:\Users\LalooRnR\Documents\GitHub\PalmeyroLeandro\Tp1_Palmeyro_Leandro\Tp1_Palmeyro_Leandro\obj\Debug\Tp1_Palmeyro_Leandro.csproj.GenerateResource.Cache
+C:\Users\LalooRnR\Documents\GitHub\PalmeyroLeandro\Tp1_Palmeyro_Leandro\Tp1_Palmeyro_Leandro\obj\Debug\Tp1_Palmeyro_Leandro.exe
+C:\Users\LalooRnR\Documents\GitHub\PalmeyroLeandro\Tp1_Palmeyro_Leandro\Tp1_Palmeyro_Leandro\obj\Debug\Tp1_Palmeyro_Leandro.pdb

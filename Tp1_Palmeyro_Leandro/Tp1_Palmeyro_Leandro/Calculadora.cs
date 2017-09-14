@@ -16,7 +16,7 @@ namespace Tp1_Palmeyro_Leandro
         /// <param name="numero2"></param>
         /// <param name="operador"></param>
         /// <returns>Retorna el resultado de la operacion y en caso de division por 0 retorna 0</returns>
-        public double operar(Numero numero1, Numero numero2, string operador)
+        public static double operar(Numero numero1, Numero numero2, string operador)
         {
             double resultado = 0;
 
@@ -55,7 +55,7 @@ namespace Tp1_Palmeyro_Leandro
         /// </summary>
         /// <param name="operador"></param>
         /// <returns>Valida si el operador es uno de los indicados, en caso contrario retorna un "+"</returns>
-        public string validarOperador(string operador)
+        public static string validarOperador(string operador)
         {
             if (operador != "+" && operador != "-" && operador != "*" && operador != "/")
             {

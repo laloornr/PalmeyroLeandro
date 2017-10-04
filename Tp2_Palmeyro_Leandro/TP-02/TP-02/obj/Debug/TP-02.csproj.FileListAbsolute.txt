@@ -22,3 +22,11 @@ C:\Users\LalooRnR\Desktop\TP-02\TP-02\bin\Debug\Entidades.pdb
 C:\Users\LalooRnR\Desktop\TP-02\TP-02\obj\Debug\TP-02.csprojResolveAssemblyReference.cache
 C:\Users\LalooRnR\Desktop\TP-02\TP-02\obj\Debug\TP-02.exe
 C:\Users\LalooRnR\Desktop\TP-02\TP-02\obj\Debug\TP-02.pdb
+C:\Users\LalooRnR\Documents\GitHub\PalmeyroLeandro\Tp2_Palmeyro_Leandro\TP-02\TP-02\bin\Debug\TP-02.exe.config
+C:\Users\LalooRnR\Documents\GitHub\PalmeyroLeandro\Tp2_Palmeyro_Leandro\TP-02\TP-02\bin\Debug\TP-02.exe
+C:\Users\LalooRnR\Documents\GitHub\PalmeyroLeandro\Tp2_Palmeyro_Leandro\TP-02\TP-02\bin\Debug\TP-02.pdb
+C:\Users\LalooRnR\Documents\GitHub\PalmeyroLeandro\Tp2_Palmeyro_Leandro\TP-02\TP-02\bin\Debug\Entidades.dll
+C:\Users\LalooRnR\Documents\GitHub\PalmeyroLeandro\Tp2_Palmeyro_Leandro\TP-02\TP-02\bin\Debug\Entidades.pdb
+C:\Users\LalooRnR\Documents\GitHub\PalmeyroLeandro\Tp2_Palmeyro_Leandro\TP-02\TP-02\obj\Debug\TP-02.csprojResolveAssemblyReference.cache
+C:\Users\LalooRnR\Documents\GitHub\PalmeyroLeandro\Tp2_Palmeyro_Leandro\TP-02\TP-02\obj\Debug\TP-02.exe
+C:\Users\LalooRnR\Documents\GitHub\PalmeyroLeandro\Tp2_Palmeyro_Leandro\TP-02\TP-02\obj\Debug\TP-02.pdb

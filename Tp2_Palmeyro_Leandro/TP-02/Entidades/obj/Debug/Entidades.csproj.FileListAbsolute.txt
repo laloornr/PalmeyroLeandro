@@ -13,3 +13,8 @@ C:\Users\LalooRnR\Desktop\TP-02\Entidades\bin\Debug\Entidades.pdb
 C:\Users\LalooRnR\Desktop\TP-02\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
 C:\Users\LalooRnR\Desktop\TP-02\Entidades\obj\Debug\Entidades.dll
 C:\Users\LalooRnR\Desktop\TP-02\Entidades\obj\Debug\Entidades.pdb
+C:\Users\LalooRnR\Documents\GitHub\PalmeyroLeandro\Tp2_Palmeyro_Leandro\TP-02\Entidades\bin\Debug\Entidades.dll
+C:\Users\LalooRnR\Documents\GitHub\PalmeyroLeandro\Tp2_Palmeyro_Leandro\TP-02\Entidades\bin\Debug\Entidades.pdb
+C:\Users\LalooRnR\Documents\GitHub\PalmeyroLeandro\Tp2_Palmeyro_Leandro\TP-02\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\LalooRnR\Documents\GitHub\PalmeyroLeandro\Tp2_Palmeyro_Leandro\TP-02\Entidades\obj\Debug\Entidades.dll
+C:\Users\LalooRnR\Documents\GitHub\PalmeyroLeandro\Tp2_Palmeyro_Leandro\TP-02\Entidades\obj\Debug\Entidades.pdb
